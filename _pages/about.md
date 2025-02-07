@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: > 
-  Athens, Greece
+subtitle: |
+  Athens, Greece 
 profile:
   align: right
   image: me.png
@@ -15,6 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+
+nikitastheodorop [at] gmail [dot] com
+
+
+
+Hello! 
 I am currently in the process of submitting PhD applications.
 
 
