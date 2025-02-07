@@ -8,7 +8,7 @@ profile:
   align: right
   image: me.png
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -34,3 +34,4 @@ In the past I also conducted research on learning brain-derived (fMRI) linguisti
 
 **More about me**\
 In my free time, I enjoy indoors climbing 🧗, playing the piano 🎹, and reading 📚.
+
