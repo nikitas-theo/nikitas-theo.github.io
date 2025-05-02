@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-nikitastheodorop [at] gmail [dot] com
+nikitastheodorop@gmail.com
 
 [Resume 
 ](assets/pdf/cv_nikitas_theodoropoulos.pdf) <i class="fa-solid fa-arrow-up-right-from-square"></i> — [Github](https://github.com/nikitas-theo) <i class="fa-brands fa-github"></i>
