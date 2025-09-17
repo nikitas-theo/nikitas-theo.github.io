@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a researcher interested in machine learning, language, and human cognition.   
-Currently searching/applying for PhD positons:)
+Currently searching/applying for PhD positons.
 
 Feel free to reach me at: `nikitastheodorop@gmail.com`   
 See other ways to connect bellow.   
