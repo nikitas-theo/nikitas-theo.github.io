@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a researcher interested in machine learning, language, and human cognition.   
-Currently searching/applying for PhD positons.
+Currently searching/applying for PhD positions.
 
 Feel free to reach me at: `nikitastheodorop@gmail.com`   
 See other ways to connect bellow.   
@@ -42,7 +42,7 @@ Some of the topics I am interested in are:
 I graduated with a BSc & MSc in [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) from the National Technical University of Athens (NTUA). I completed my thesis at the [AILS](https://www.ails.ece.ntua.gr/) group of NTUA supervised by Prof. [Giorgos Stamou](https://www.ece.ntua.gr/en/staff/174). Our research investigated language modeling with human-like data constraints of at most 100 million words, as part of the 2024 [BabyLM](https://babylm.github.io/) Challenge.
 
 
-I interned with the [Machine Teaching](https://machineteaching.mpi-sws.org/) group at [MPI-SWS](https://www.mpi-sws.org/) where I was advised by Prof. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). Our work focused on AI for programming education. Given a student's attempt on a known task, we first identify the student's misconception, and then synthesize the student's attempt for a novel but simialr problem.
+I interned with the [Machine Teaching](https://machineteaching.mpi-sws.org/) group at [MPI-SWS](https://www.mpi-sws.org/) where I was advised by Prof. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). Our work focused on AI for programming education. Given a struggling student's attempt on a known programming task, we first identify the student's misconception, and then use it simulate student behavior by synthesizing their attempt for a novel but similar problem.
 
 In the past, I also conducted research on learning brain-derived (fMRI) linguistic representations, working with Prof. [Alexandros Potamianos](https://slp-ntua.github.io/potam/) in the [Speech and Language](https://slp-ntua.github.io/index.html) group at NTUA. 
 
