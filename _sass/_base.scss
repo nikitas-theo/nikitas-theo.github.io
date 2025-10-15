@@ -4,6 +4,100 @@
 
 // Typography
 
+
+// :root {
+//   font-family: Inter, sans-serif;
+//   font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+// }
+// @supports (font-variation-settings: normal) {
+//   :root { font-family: InterVariable, sans-serif; }
+// }
+
+/* Set default font for the whole document */
+body{
+  // font-family: "Lato", sans-serif;
+  font-weight: 400;
+}
+nav{
+  // font-family: "Lato", sans-serif;
+  font-weight: 400;
+}
+
+.navbar {
+  // font-family: "Lato", sans-serif;
+  font-weight: 400;
+}
+
+b, strong { 
+    // font-family: "Lato", sans-serif;
+    font-weight: 700; 
+} /* make sure bold resolves to 700 */
+
+html { font-size: 20px; }     /* ~112.5% */
+
+
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.lato-regular-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.lato-black-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+
 p,
 h1,
 h2,
