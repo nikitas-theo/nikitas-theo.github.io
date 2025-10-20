@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I like to do research on machine learning, NLP, and cognitive science.   
-Currently searching/applying for PhD positions.
+Currently applying to PhD positions.
 
 You can email me at **nikitastheodorop@gmail.com**   
 See other ways to connect bellow.     
@@ -49,7 +49,7 @@ During my studies, I interned with the [Machine Teaching](https://machineteachin
 <!-- We proposed a neural, program-synthesizer based method, and a probabilistic context-free grammar (PCFG) symbolic method as baselines, and conduct a survey to evaluate human performance.  -->
 
 
-In the past, I also worked with Prof. [Alexandros Potamianos](https://slp-ntua.github.io/potam/) at the [Speech and Language](https://slp-ntua.github.io/index.html) group at NTUA. Our research topic was learning brain-derived (fMRI) word representations and applying them in NLP tasks. 
+In the past, I also worked with Prof. [Alexandros Potamianos](https://slp-ntua.github.io/potam/) at the [Speech and Language](https://slp-ntua.github.io/index.html) group at NTUA. Our research topic was learning brain-derived (fMRI) word representations and applying them at NLP tasks. 
 
 <!-- A sample of this work can be found [here](). -->
 
@@ -60,6 +60,7 @@ In the past, I also worked with Prof. [Alexandros Potamianos](https://slp-ntua.g
 <!-- I'm always looking for learning resources (for topics mentioned in my interests, and others), if you have a good resource to recommend, reach out! (In the meantime you can also check some recommended resources that I collected). -->
 <!-- If there is any help/advice I can give, or you just want to chat about common interests, feel free to reach out. -->
 In my free time I enjoy indoors climbing 🧗, playing the piano 🎹, and reading 📚.   
+
 I also like to learn new and exciting programming languages, and I am interested in open-source, decentralized, and self-hosted software.
 
 
