@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We release **BabyBabelLM**: A multilingual benchmark of developmentally plausible training data for 45 languages! Find more here:  [babylm.github.io/babybabellm](https://babylm.github.io/babybabellm/)
+We released **BabyBabelLM**: a multilingual benchmark of developmentally plausible training data for 45 languages! Find more here:  [babylm.github.io/babybabellm](https://babylm.github.io/babybabellm/)
