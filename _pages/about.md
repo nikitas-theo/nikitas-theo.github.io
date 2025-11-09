@@ -25,15 +25,16 @@ You can find my CV [here <i class="fa-solid fa-arrow-up-right-from-square"></i>]
 
 ##### Research Interests
 
+Through my research I want to understand fundamental aspects of intelligence, both in machines and humans, with an emphasis on language.   
 Some of the topics I am interested in are:
-- Computational linguistics
-- Language acquisition
-- Interpretability
-- Multilinguality and low-resource languages
-- Multimodality and language grounding
+
+- Computational models of human language acquisition and processing
+- Human-like models, that are computation and sample efficient
 - Multi-agent interaction and communication
-- Language evolution
-- Symbolic and neuro-symbolic methods
+- Embodied agents and language grounding
+- Mutlilinguality and low-resource languages 
+- Interpretability and the scientific study of language models
+- Language emergence and evolution
 
 
 ##### Short CV
